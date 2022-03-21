@@ -1,0 +1,43 @@
+.links{
+    margin-left: 70%;
+}
+.btn1{
+    background: rgb(197, 38, 46);
+    border: none;
+    padding: 5px;
+    color: white;
+    width: 200px;
+}
+.btn2{
+    background: rgb(29, 131, 199);
+    border: none;
+    padding: 5px;
+    color: white;
+    width: 200px;
+}
+.btn1:hover{
+    border-radius: 10px;
+}
+ .btn2:hover{
+border-radius: 10px;
+}
+.visual{
+    width: 30%;
+    opacity: 0;
+    transform: translateX(0px);
+    transition: 0.5s all ease-in-out;
+}
+.anim{
+    opacity: 1;
+    transform: translateX(20px);
+}
+.qna{
+    margin-top: 20px;
+}
+.qnaback{
+    background: rgb(240, 224, 224);
+    border-radius: 30px;
+}
+.qnabtn{
+    margin-left:500px;
+}
