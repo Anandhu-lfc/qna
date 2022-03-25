@@ -1,6 +1,10 @@
 .links{
     margin-left: 70%;
 }
+.heading{
+    color:rgb(238, 232, 233);
+    font-size: 50px; 
+    }
 .btn1{
     background: rgb(197, 38, 46);
     border: none;
@@ -33,6 +37,7 @@ border-radius: 10px;
 }
 .qna{
     margin-top: 20px;
+    
 }
 .qnaback{
     background: rgb(240, 224, 224);
@@ -41,3 +46,13 @@ border-radius: 10px;
 .qnabtn{
     margin-left:500px;
 }
+.shadow{
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+}
+.cards{
+    box-shadow: 0 20px 20px rgba(0, 0,0,0.2), 0px 0px 50px rgba(0, 0,0,0.2);
+    margin-top: 5px;
+}
+
+
+
